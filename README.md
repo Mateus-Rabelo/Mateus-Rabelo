@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Mateus Rabelo!</h1>
+<p>I am a Web developer focused on Front-end </p>
 
-<!--
-**Mateus-Rabelo/Mateus-Rabelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>A little more about me...</h2>
 
-Here are some ideas to get you started:
+ 
+  const Mateus = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS,],
+  tools: [React, Vue, Node, Bootstrap, Jquery, Redux, Ajax, Less/Sass],
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Rabelo&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mateus-Rabelo&repo=Gallery&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
