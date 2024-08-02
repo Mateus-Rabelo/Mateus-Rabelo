@@ -1,5 +1,5 @@
-<h1>Hi, I'm Mateus Rabelo!</h1>
-<p>I am a Web developer focused on Front-end </p>
+<h1>Olá eu sou Mateus Rabelo!</h1>
+<p>Sou um desenvolvedor front-end com experiência em projetos freelance, acumulando oito meses de prática no desenvolvimento de interfaces de usuário intuitivas e responsivas. Atualmente, estou expandindo meus conhecimentos em back-end para me tornar um profissional completo e capaz de contribuir em todas as etapas do desenvolvimento de software. Tenho um forte compromisso com a qualidade do código e a entrega de soluções eficazes que atendam às necessidades dos clientes.  </p>
 
 <h2>A little more about me...</h2>
 
